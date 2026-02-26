@@ -4,6 +4,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
+--
+
+**Deploy:** https://gjuniordev.github.io/Projeto-Viva-Bem--VaiNaWeb-/
+
 O **Viver Bem** é uma landing page focada na conscientização sobre a saúde preventiva. O projeto foi criado para informar de maneira clara e visual quais exames de rotina são necessários em cada fase da vida, separando as necessidades dos públicos masculino e feminino.
 
 ---
